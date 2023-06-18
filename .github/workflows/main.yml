@@ -28,7 +28,7 @@ jobs:
           user: AmyangXYZ
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
+          config_display: large
           config_timezone: America/New_York
           plugin_achievements: yes
           plugin_achievements_display: detailed
