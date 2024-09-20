@@ -5,6 +5,7 @@ I'm Amyang (黯灭小羊), CSE PhD at UConn
 #### Random fun projects
 
 - [zhiyin-zsh-theme](https://github.com/AmyangXYZ/zhiyin-zsh-theme): zhiyin dance in zsh ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/zhiyin-zsh-theme?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/zhiyin-zsh-theme?style=social)
+- [MiKaPo](https://github.com/AmyangXYZ/MiKaPo): web-based video to MMD pose in real-time ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/MiKaPo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/MiKaPo?style=social)
 - [AniMate](https://github.com/AmyangXYZ/AniMate): chat with your MMD model on desktop ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/AniMate?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/AniMate?style=social)
 - [AetherGazer_Vue](https://github.com/AmyangXYZ/AetherGazer_Vue): Web-based MMD viewer ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/AetherGazer_Vue?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/AetherGazer_Vue?style=social)
 - [PaperPi](https://github.com/AmyangXYZ/PaperPi):  Display image on e-paper with RaspPi ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/PaperPi?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/PaperPi?style=social)
