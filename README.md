@@ -4,8 +4,8 @@ I'm Amyang (黯灭小羊), CSE PhD at UConn
 
 #### Random fun projects
 
-- [zhiyin-zsh-theme](https://github.com/AmyangXYZ/zhiyin-zsh-theme): zhiyin dance in zsh ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/zhiyin-zsh-theme?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/zhiyin-zsh-theme?style=social)
-- [MiKaPo](https://github.com/AmyangXYZ/MiKaPo): web-based video to MMD pose in real-time ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/MiKaPo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/MiKaPo?style=social)
+- [zhiyin-zsh-theme](https://github.com/AmyangXYZ/zhiyin-zsh-theme): Zhiyin dance in zsh ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/zhiyin-zsh-theme?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/zhiyin-zsh-theme?style=social)
+- [MiKaPo](https://github.com/AmyangXYZ/MiKaPo): MMD motion capture on Web ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/MiKaPo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/MiKaPo?style=social)
 - [PaperPi](https://github.com/AmyangXYZ/PaperPi):  Display image on e-paper with RaspPi ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/PaperPi?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/PaperPi?style=social)
 - [copilg-vscode-theme](https://github.com/AmyangXYZ/copilg-vscode-theme): Copilot+Github VSCode theme ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/copilg-vscode-theme?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/copilg-vscode-theme?style=social)
 
@@ -17,8 +17,8 @@ I'm Amyang (黯灭小羊), CSE PhD at UConn
 
 #### Web Development
 
-- [sgo](https://github.com/AmyangXYZ/sgo): fast and lightweight Web framework ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/sgo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/sgo?style=social)
-- [RTDEX](https://github.com/AmyangXYZ/RTDEX): named-data service with time-aware shaper ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/RTDEX?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/RTDEX?style=social)
+- [sgo](https://github.com/AmyangXYZ/sgo): Fast and lightweight Web framework ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/sgo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/sgo?style=social)
+- [RTDEX](https://github.com/AmyangXYZ/RTDEX): Named-data service with time-aware shaper ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/RTDEX?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/RTDEX?style=social)
 #### Real-Time Networks
 
 - [VeRNet](https://github.com/AmyangXYZ/VeRNet): Web-based 3D network simulator ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/VeRNet?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/VeRNet?style=social)
