@@ -7,7 +7,6 @@ I'm Amyang (黯灭小羊), CSE PhD at UConn
 - [zhiyin-zsh-theme](https://github.com/AmyangXYZ/zhiyin-zsh-theme): Zhiyin dance in zsh ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/zhiyin-zsh-theme?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/zhiyin-zsh-theme?style=social)
 - [MiKaPo](https://github.com/AmyangXYZ/MiKaPo): MMD motion capture on Web ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/MiKaPo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/MiKaPo?style=social)
 - [PaperPi](https://github.com/AmyangXYZ/PaperPi):  Display image on e-paper with RaspPi ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/PaperPi?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/PaperPi?style=social)
-- [copilg-vscode-theme](https://github.com/AmyangXYZ/copilg-vscode-theme): Copilot+Github VSCode theme ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/copilg-vscode-theme?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/copilg-vscode-theme?style=social)
 
 #### Security
 
