@@ -4,9 +4,9 @@ I'm Amyang (黯灭小羊), CSE PhD at UConn
 
 #### Random fun projects
 
+- [ProofOfAwesome](https://proof-of-awesome.app): Reimagine blockchain with AI-reviewd real-world achievements ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/ProofOfAwesome?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/ProofOfAwesome?style=social)
 - [zhiyin-zsh-theme](https://github.com/AmyangXYZ/zhiyin-zsh-theme): Zhiyin dance in zsh ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/zhiyin-zsh-theme?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/zhiyin-zsh-theme?style=social)
 - [MiKaPo](https://github.com/AmyangXYZ/MiKaPo): MMD motion capture on Web ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/MiKaPo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/MiKaPo?style=social)
-- [ProofOfAwesome](https://proof-of-awesome.app): Reimagine blockchain with AI-reviewd real-world achievements ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/ProofOfAwesome?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/ProofOfAwesome?style=social)
 - [PaperPi](https://github.com/AmyangXYZ/PaperPi):  Display image on e-paper with RaspPi ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/PaperPi?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/PaperPi?style=social)
 
 #### Security
