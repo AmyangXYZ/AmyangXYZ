@@ -2,6 +2,8 @@
 
 I'm Amyang (黯灭小羊), CSE PhD from UConn
 
+My discord: amyangxyz
+
 #### Random fun projects
 
 - [ProofOfAwesome](https://proof-of-awesome.app): Reimagine blockchain with AI-reviewd real-world achievements ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/ProofOfAwesome?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/ProofOfAwesome?style=social)
@@ -36,5 +38,6 @@ I'm Amyang (黯灭小羊), CSE PhD from UConn
 ## GitHub Stats
 
 ![Amyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmyangXYZ&show_icons=true&theme=radical)
+
 
 
