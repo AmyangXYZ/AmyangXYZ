@@ -10,12 +10,13 @@ My discord: amyangxyz
 - [zhiyin-zsh-theme](https://github.com/AmyangXYZ/zhiyin-zsh-theme): Zhiyin dance in zsh ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/zhiyin-zsh-theme?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/zhiyin-zsh-theme?style=social)
 - [PaperPi](https://github.com/AmyangXYZ/PaperPi):  Display image on e-paper with RaspPi ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/PaperPi?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/PaperPi?style=social)
 
-#### Anime Char Playbox
+#### Anime MMD
 
 - [MiKaPo](https://github.com/AmyangXYZ/MiKaPo): MMD motion capture on Web ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/MiKaPo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/MiKaPo?style=social)
 - [PoPo](https://github.com/AmyangXYZ/PoPo): MMD pose generation with LLM ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/PoPo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/PoPo?style=social)
 - [MMD-MPL](https://github.com/AmyangXYZ/MPL): Semantic Motion Programming Language ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/MMD-MPL?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/MMD-MPL?style=social)
 - [Reze-Engine](https://github.com/AmyangXYZ/reze-engine): WebGPU MMD Anime Char Rendering ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/reze-engine?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/reze-engine?style=social)
+- [Mixamo-MMD](https://github.com/AmyangXYZ/Mixamo-MMD): Retarget Mixamo animation to MMD's VMD format in one click ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/Mixamo-MMD?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/Mixamo-MMD?style=social)
 
 #### Security
 
@@ -38,6 +39,7 @@ My discord: amyangxyz
 ## GitHub Stats
 
 ![Amyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmyangXYZ&show_icons=true&theme=radical)
+
 
 
 
