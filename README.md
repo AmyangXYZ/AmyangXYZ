@@ -37,10 +37,5 @@ My discord: amyangxyz
 - [6TiSCH-Testbed](https://github.com/uconn-cps-lab/6TiSCH-Testbed): Full-stack 6TiSCH testbed @ UConn ![GitHub stars](https://img.shields.io/github/stars/uconn-cps-lab/6TiSCH-Testbed?style=social) ![GitHub forks](https://img.shields.io/github/forks/uconn-cps-lab/6TiSCH-Testbed?style=social)
 - [RTWN-Virtualization](https://github.com/AmyangXYZ/RTWN-Virtualization): Resource virtualization with timing guarantee ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/RTWN-Virtualization?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/RTWN-Virtualization?style=social)
 
-## GitHub Stats
-
-![Amyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmyangXYZ&show_icons=true&theme=radical)
-
-
 
 
