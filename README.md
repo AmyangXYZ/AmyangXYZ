@@ -1,6 +1,6 @@
 ## Hi there!👋
 
-I'm Amyang (黯灭小羊), CSE PhD from UConn
+I'm Amyang (黯灭小羊), CSE PhD from UConn [🎓](https://scholar.google.com/citations?user=SJlfXTwAAAAJ)
 
 My discord: amyangxyz
 
