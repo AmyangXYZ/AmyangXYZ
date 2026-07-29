@@ -13,7 +13,8 @@ My discord: amyangxyz
 #### Anime MMD
 
 - [Reze-Engine](https://github.com/AmyangXYZ/reze-engine): WebGPU MMD Anime Char Rendering ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/reze-engine?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/reze-engine?style=social)
-- [Reze-Studio](https://github.com/AmyangXYZ/reze-studio): Web-native MMD Animation Curve Editor ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/reze-studio?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/reze-studio?style=social)
+- [Reze-Design](https://github.com/AmyangXYZ/reze-design): MMD Scene Design and Sharing Platform ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/reze-design?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/reze-design?style=social)
+- [Reze-Studio](https://github.com/AmyangXYZ/reze-studio): MMD Animation Curve Editor ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/reze-studio?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/reze-studio?style=social)
 - [MiKaPo](https://github.com/AmyangXYZ/MiKaPo): MMD motion capture on Web ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/MiKaPo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/MiKaPo?style=social)
 - [PoPo](https://github.com/AmyangXYZ/PoPo): MMD pose generation with LLM ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/PoPo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/PoPo?style=social)
 - [MMD-MPL](https://github.com/AmyangXYZ/MPL): Semantic Motion Programming Language ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/MMD-MPL?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/MMD-MPL?style=social)
