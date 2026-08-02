@@ -16,9 +16,10 @@ My discord: amyangxyz
 - [Reze-Design](https://github.com/AmyangXYZ/reze-design): MMD Scene Design and Sharing Platform ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/reze-design?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/reze-design?style=social)
 - [Reze-Studio](https://github.com/AmyangXYZ/reze-studio): MMD Animation Curve Editor ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/reze-studio?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/reze-studio?style=social)
 - [MiKaPo](https://github.com/AmyangXYZ/MiKaPo): MMD motion capture on Web ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/MiKaPo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/MiKaPo?style=social)
+- [Reze-Rig](https://github.com/AmyangXYZ/reze-rig): Retarget FBX animation to MMD's VMD format in one click ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/reze-rig?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/reze-rig?style=social)
 - [PoPo](https://github.com/AmyangXYZ/PoPo): MMD pose generation with LLM ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/PoPo?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/PoPo?style=social)
 - [MMD-MPL](https://github.com/AmyangXYZ/MPL): Semantic Motion Programming Language ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/MMD-MPL?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/MMD-MPL?style=social)
-- [Mixamo-MMD](https://github.com/AmyangXYZ/Mixamo-MMD): Retarget Mixamo animation to MMD's VMD format in one click ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/Mixamo-MMD?style=social) ![GitHub forks](https://img.shields.io/github/forks/AmyangXYZ/Mixamo-MMD?style=social)
+
 
 #### Security
 
